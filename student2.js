@@ -63,6 +63,7 @@ function dealCards412(){
   data += "<img id='card2' src="https://college1.com/classes/cs190/lecture/images/cards/gbCard52.gif"></td>"; 
    data += "<img id='card3' src="https://college1.com/classes/cs190/lecture/images/cards/gbCard52.gif"></td>"; 
     data += "<img id='card4' src="https://college1.com/classes/cs190/lecture/images/cards/gbCard52.gif"></td></tr></table> "; 
+	return (data);
 }
 
 
