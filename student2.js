@@ -37,7 +37,7 @@ var imgurl797 = "http://college1.com/images/" + myproduct.id + ".gif";
      data += "Product ID: " + myproduct.id + "<br>"; 
      data += "Product Description: " + myproduct.desc + "<br>"; 
      data += "Shopping Cart Link Bar <br>"; 
-     data += "Product Image: <img src="imgurl797" height=100 width=100></a>"; 
+     data += "Product Image: <img src='imgurl797' height=100 width=100></a>"; 
      data += "</p>";
      return(data); 
 }
